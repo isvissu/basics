@@ -1,7 +1,7 @@
 git config --global http.proxy http://username:password@proxy:port
 
 examples
-user name eg cs1110260
-pass xxxxxx
-proxy 10.10.78.22
-port 3128
+username cs1110260
+password xxxxxx
+proxy    10.10.78.22
+port     3128
